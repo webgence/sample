@@ -1,3 +1,4 @@
 ### Hello World!
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=webgence&theme=radical)](https://github.com/webgence/github-readme-stats)
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=webgence&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+)](https://github.com/webgence/github-readme-stats)
